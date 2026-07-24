@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✦ FAATİH USTA ✦</h1>
+  <h1>✦ FATİH USTA ✦</h1>
   <h3>Unreal Engine Blueprint Developer & Automation Architect</h3>
 
   <p align="center">
