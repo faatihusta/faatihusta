@@ -1,17 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,8a2be2,4b0082&height=220&section=header&text=Unreal%20Engine%20%26%20Automation%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <h1>✦ FAATİH USTA ✦</h1>
+  <h3>Unreal Engine Blueprint Developer & Automation Architect</h3>
+
+  <p align="center">
+    <b>Unreal Engine (Blueprints)</b> • <b>Mobile Apps (React Native / Expo)</b> • <b>n8n Automation</b>
+  </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vcenter=true&width=600&height=50&lines=Unreal+Engine+Developer+%7C+Blueprint+Architect;Co-Founder+%40+Nine+Studio;Creator+of+Nine+Wallpaper;n8n+Workflow+%26+Backend+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=600&height=45&lines=Unreal+Engine+Developer+%7C+Blueprint+Architect;Co-Founder+%40+Nine+Studio;Creator+of+Nine+Wallpaper+(Expo+Go);n8n+Workflow+%26+Business+Automation" alt="Typing SVG" />
   </a>
 
+  <br />
   <br />
 
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Engine-Unreal%20Engine-7C3AED?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Engine Badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/Scripting-Blueprints-4C1D95?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Studio-Nine%20Studio-6D28D9?style=for-the-badge&logo=gameandwatch&logoColor=white" alt="Studio Badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Mobile-Expo%20Go%20%2F%20React%20Native-6D28D9?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Studio-Nine%20Studio-3B0764?style=for-the-badge&logo=gameandwatch&logoColor=white" alt="Studio Badge"></a>
   </p>
 
   <p align="center">
@@ -31,11 +38,11 @@
 
 ## 👨‍💻 Hakkımda
 
-**Nine Studio** bünyesinde Kurucu Ortak ve **Oyun Geliştirici** olarak çalışıyorum. Ağırlıklı olarak **Unreal Engine** üzerinde **Blueprint Visual Scripting** mimarilerini kullanarak oyun mekanikleri, interaktif sistemler ve dinamik çevreler inşa ediyor; aynı zamanda **n8n** ile dijital iş akışı otomasyonları geliştiriyorum.
+**Nine Studio** bünyesinde Kurucu Ortak, **Oyun Geliştirici** ve **Mobil / Otomasyon Mimarı** olarak çalışıyorum. Ağırlıklı olarak **Unreal Engine** üzerinde **Blueprint Visual Scripting** kullanarak oyun mekanikleri tasarlıyor, **Expo Go / React Native** ile mobil uygulamalar ve **n8n** ile dijital iş akışı otomasyonları inşa ediyorum.
 
-* **Unreal Engine & Blueprint:** Modüler görsel kodlama (Blueprint) mimarileri, karakter kontrolcüleri, kullanıcı arayüzleri (UMG) ve etkileşim sistemleri geliştirme.
-* **Product & Ecosystem:** **Nine Wallpaper** gibi masaüstü/görsel yazılımlar ve Nine Studio ekosistemine ait projeleri hayata geçirme.
-* **Workflow Automation:** **n8n** ve JavaScript entegrasyonları ile e-ticaret, veri işleme ve stüdyo operasyonlarını otomatize etme.
+* **Unreal Engine & Blueprint:** Modüler görsel kodlama (Blueprint) mimarileri, oyun mekanikleri, UI (UMG) ve etkileşim sistemleri geliştirme.
+* **Mobile Development:** **Nine Wallpaper** gibi **Expo Go / React Native** tabanlı estetik ve yüksek performanslı mobil uygulamalar üretme.
+* **Workflow Automation:** **n8n** ve JavaScript entegrasyonları ile e-ticaret, veri işleme, e-fatura ve stüdyo operasyonlarını otomatize etme.
 
 ---
 
@@ -43,9 +50,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,js,py,git,github,postman,figma&perline=7" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=unreal,react,js,ts,py,git,github,figma&perline=8" alt="Core Technologies" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,pnpm&perline=5" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,docker,linux,pnpm,vscode&perline=7" alt="Tools & Environment" />
   </a>
 </div>
 
@@ -54,15 +61,16 @@
 ## 🚀 Öne Çıkan Projeler
 
 <details>
-<summary><b>🔹 Nine Wallpaper</b></summary>
+<summary><b>🔹 Nine Wallpaper (Mobile App)</b></summary>
 <br />
 
-Nine Studio ekosistemine ait, estetik ve yüksek çözünürlüklü duvar kağıdı deneyimleri sunan dinamik masaüstü / görsel uygulama projesi.
+Nine Studio ekosistemine ait, **Expo Go (React Native)** kullanılarak geliştirilmiş, kullanıcılara yüksek çözünürlüklü ve estetik duvar kağıdı deneyimi sunan mobil uygulama.
 
 | Boyut / Metrik | Detay |
 | :--- | :--- |
-| **Kategori** | Digital Graphics & Desktop Application |
-| **Odak Noktası** | Kullanıcı dostu arayüz tasarımı, yüksek performanslı görsel sunum |
+| **Kategori** | Mobile Application (iOS & Android) |
+| **Teknolojiler** | Expo Go, React Native, JavaScript / TypeScript |
+| **Odak Noktası** | Akıcı mobil arayüz (UI/UX), dinamik görsel kategorizasyonu ve hızlı içerik sunumu |
 | **Depo** | [GitHub Repository](https://github.com/faatihusta) |
 
 </details>
@@ -135,7 +143,7 @@ Açık dünya ve atmosferik oyunlar için Blueprint üzerinde optimize edilmiş 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://snk-gen.vercel.app/api/snake?github_user_name=faatihusta&color_snake=%238a2be2&color_dots=%23161b22,%234c1d95,%236d28d9,%237c3aed,%239333ea" alt="Snake Animation" width="100%" />
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -145,11 +153,11 @@ Açık dünya ve atmosferik oyunlar için Blueprint üzerinde optimize edilmiş 
 ```yaml
 Mevcut_Odak:
   Geliştirilenler:
+    - Nine Wallpaper (Expo Go / React Native) mobil güncellemeleri
     - Unreal Engine Blueprint mimarileri & Oyun Mekanikleri
-    - Nine Wallpaper güncellemeleri ve yeni Nine Studio projeleri
     - n8n tabanlı karmaşık API & Webhook otomasyonları
   Öğrenilenler:
     - Advanced Blueprint Optimization & Event-Driven Systems
-    - Low-code / No-code Enterprise Backend Integrations
+    - Expo / React Native Performance & State Management
   İletişim:
-    - Oyun geliştirme projeleri ve otomasyon iş birlikleri
+    - Oyun geliştirme, mobil uygulama ve otomasyon iş birlikleri
