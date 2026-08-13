@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>✦ FATİH USTA ✦</h1>
-  <h3>Unreal Engine Blueprint Developer & Automation Architect</h3>
+  <h3>Game Developer</h3>
 
   <p align="center">
-    <b>Unreal Engine (Blueprints)</b> • <b>Mobile Apps (React Native / Expo)</b> • <b>n8n Automation</b>
+    <b>Unreal Engine</b>
   </p>
 
   <a href="https://git.io/typing-svg">
@@ -55,109 +55,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,postman,docker,linux,pnpm,vscode&perline=7" alt="Tools & Environment" />
   </a>
 </div>
-
----
-
-## 🚀 Öne Çıkan Projeler
-
-<details>
-<summary><b>🔹 Nine Wallpaper (Mobile App)</b></summary>
-<br />
-
-Nine Studio ekosistemine ait, **Expo Go (React Native)** kullanılarak geliştirilmiş, kullanıcılara yüksek çözünürlüklü ve estetik duvar kağıdı deneyimi sunan mobil uygulama.
-
-| Boyut / Metrik | Detay |
-| :--- | :--- |
-| **Kategori** | Mobile Application (iOS & Android) |
-| **Teknolojiler** | Expo Go, React Native, JavaScript / TypeScript |
-| **Odak Noktası** | Akıcı mobil arayüz (UI/UX), dinamik görsel kategorizasyonu ve hızlı içerik sunumu |
-| **Depo** | [GitHub Repository](https://github.com/faatihusta) |
-
-</details>
-
-<details>
-<summary><b>🔹 n8n Workflow & Business Automation Systems</b></summary>
-<br />
-
-E-ticaret süreçleri, otomatik e-fatura/e-posta gönderimleri ve veri dönüştürme hatları (pipelines) için kurgulanmış n8n tabanlı uçtan uca otomasyon mimarileri.
-
-| Boyut / Metrik | Detay |
-| :--- | :--- |
-| **Teknolojiler** | n8n, Webhooks, REST APIs, JavaScript / JSON Parsing |
-| **Odak Noktası** | Manuel süreçleri sıfıra indiren ve operasyonları otomatize eden entegrasyonlar |
-| **Etki** | Operasyonel zaman kaybını ortadan kaldıran güvenilir veri akışları |
-
-</details>
-
-<details>
-<summary><b>🔹 Unreal Engine Blueprint Gameplay & Interactive Systems</b></summary>
-<br />
-
-Tamamen Blueprint görsel programlama dili ile geliştirilmiş modüler oyun mekanikleri, dövüş ve fizik tabanlı etkileşim sistemleri.
-
-| Boyut / Metrik | Detay |
-| :--- | :--- |
-| **Motor / Sistem** | Unreal Engine / Blueprint Visual Scripting |
-| **Odak Noktası** | Modüler karakter kontrolcüleri, Hitbox/Hurtbox algoritmaları ve fizik etkileşimleri |
-| **Depo** | [GitHub Repository](https://github.com/faatihusta) |
-
-</details>
-
-<details>
-<summary><b>🔹 Unreal Engine Dynamic Day/Night & Environment Systems</b></summary>
-<br />
-
-Açık dünya ve atmosferik oyunlar için Blueprint üzerinde optimize edilmiş dinamik gökyüzü, gün/gece döngüsü ve ışıklandırma mimarileri.
-
-| Boyut / Metrik | Detay |
-| :--- | :--- |
-| **Motor / Sistem** | Unreal Engine / Blueprints & Atmosphere Controls |
-| **Odak Noktası** | Packaged (Standalone) oyun derlemelerinde donma olmadan akıcı çalışan zaman döngüsü |
-| **Depo** | [GitHub Repository](https://github.com/faatihusta) |
-
-</details>
-
----
-
-## 📊 GitHub Analizleri
-
-<div align="center">
-  <br />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=faatihusta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=faatihusta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <br />
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=faatihusta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Katkı Grafiği
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faatihusta&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 🎯 Şu Anki Odak
-
-```yaml
-Mevcut_Odak:
-  Geliştirilenler:
-    - Nine Wallpaper (Expo Go / React Native) mobil güncellemeleri
-    - Unreal Engine Blueprint mimarileri & Oyun Mekanikleri
-    - n8n tabanlı karmaşık API & Webhook otomasyonları
-  Öğrenilenler:
-    - Advanced Blueprint Optimization & Event-Driven Systems
-    - Expo / React Native Performance & State Management
-  İletişim:
-    - Oyun geliştirme, mobil uygulama ve otomasyon iş birlikleri
