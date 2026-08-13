@@ -2,8 +2,7 @@
   <h1>FATİH USTA</h1>
   <h3>Game Developer</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=600&height=45&lines=Unreal+Engine+Developer+%7C+Blueprint+Architect;Co-Founder+%40+Nine+Studio;Creator+of+Nine+Wallpaper+(Expo+Go)" alt="Typing SVG"/>
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=600&height=45&lines=Unreal+Engine+Developer+%7C+Blueprint+Architect;Co-Founder+%40+Nine+Studio;Creator+of+Nine+Wallpaper+(Expo+Go)" alt="Typing SVG"/></a>
   <br />
   <br />
   <p align="center">
@@ -24,7 +23,7 @@
 
 * **Unreal Engine & Blueprint:** Modüler görsel kodlama (Blueprint) mimarileri, oyun mekanikleri, UI (UMG) ve etkileşim sistemleri geliştirme.
 * **Mobile Development:** **Nine Wallpaper** gibi **Expo Go / React Native** tabanlı estetik ve yüksek performanslı mobil uygulamalar üretme.
-* **Workflow Automation:** **n8n** ve JavaScript entegrasyonları ile e-ticaret, veri işleme, e-fatura ve stüdyo operasyonlarını otomatize etme.
+
 
 ---
 
