@@ -3,10 +3,6 @@
   <h1>✦ FATİH USTA ✦</h1>
   <h3>Game Developer</h3>
 
-  <p align="center">
-    <b>Unreal Engine</b>
-  </p>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=600&height=45&lines=Unreal+Engine+Developer+%7C+Blueprint+Architect;Co-Founder+%40+Nine+Studio;Creator+of+Nine+Wallpaper+(Expo+Go);n8n+Workflow+%26+Business+Automation" alt="Typing SVG" />
   </a>
@@ -16,8 +12,6 @@
 
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Engine-Unreal%20Engine-7C3AED?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Engine Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Scripting-Blueprints-4C1D95?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Mobile-Expo%20Go%20%2F%20React%20Native-6D28D9?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/Studio-Nine%20Studio-3B0764?style=for-the-badge&logo=gameandwatch&logoColor=white" alt="Studio Badge"></a>
   </p>
 
@@ -50,8 +44,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,react,js,ts,py,git,github,figma&perline=8" alt="Core Technologies" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,docker,linux,pnpm,vscode&perline=7" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=unreal,react,js&perline=8" alt="Core Technologies" />
   </a>
 </div>
